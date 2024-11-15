@@ -2,6 +2,8 @@
 //#include "hCloudClient.h"
 #include <stddef.h>
 #include <stdio.h>
+#include <Distancesensor.h>
+
 
 using namespace hFramework;
 
